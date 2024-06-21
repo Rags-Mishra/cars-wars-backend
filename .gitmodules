@@ -1,0 +1,3 @@
+[submodule "cars-wars-frontend"]
+	path = cars-wars-frontend
+	url = https://github.com/Rags-Mishra/cars-wars-frontend
